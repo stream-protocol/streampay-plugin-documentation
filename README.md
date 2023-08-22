@@ -1,22 +1,19 @@
-# Nextra Docs Template 
+# Stream**Pay™** E-Commerce Plugins Documentation
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+Welcome to the Stream**Pay™** E-Commerce Plugins Documentation!
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+## Inroduction
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+The Stream**Pay™** Plugin is a powerful extension for e-commerce stores, enabling seamless integration with the Stream**Pay™** payment provider.
+This guide will walk you through the process of integrating the Stream**Pay™** payment provider into your e-commerce store, allowing you to accept a wide range of payment methods, including cryptocurrencies like Cryptocurrency, EUROC, and USDC stablecoin. This seamless integration will provide your customers with a secure and convenient payment experience.
 
-## Quick Start
+## Supported E-Commerce Platforms
+  
+**1. Medusajs**
 
-Click the button to clone this repository and deploy it on Vercel:
+The Medusajs StreamPay Plugin is a powerful extension for Medusa stores, enabling seamless integration with the Stream**Pay**™ payment provider. With this plugin, merchants can effortlessly process blockchain-based payments through Stream**Pay**™ on their Medusa-based online stores, offering a streamlined and secure payment experience for customers.
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
-
-## Local Development
-
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
+**3. Shopify**
 
 ## License
 
