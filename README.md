@@ -20,6 +20,22 @@ The Shopify Stream**Pay**™ Plugin is a powerful extension for Shopify stores, 
 
 The WooCommerce Stream**Pay**™ Plugin is a powerful extension for WooCommerce stores, enabling seamless integration with the Stream**Pay**™ payment provider. With this plugin, merchants using WordPress can effortlessly process blockchain-based payments through Stream**Pay**™ on their WooCommerce-based online stores, offering a streamlined and secure payment experience for customers.
 
+## Key Features and Improvements
+
+We are committed to enhancing your payment experience through continuous improvements and updates. Here are some of the key features and improvements that make Stream**Pay**™ E-Commerce Plugins stand out:
+
+- **Stablecoins Support**: In addition to accepting cryptocurrencies, our plugins now also support stablecoins like EUROC and USDC. This adds an extra layer of stability to the payment options for your customers.
+
+- **Easy Onboarding**: Our plugins offer an intuitive onboarding process, making it simpler for merchants to integrate Stream**Pay**™ into their stores and start accepting blockchain-based payments.
+
+- **Future-Ready Features**: Stay tuned for our upcoming features, including on-ramp swap options and fiat payment integrations. We are constantly working to enhance the flexibility and convenience of our payment solutions.
+
+- **Enhanced Security**: We understand the importance of security in e-commerce. Our plugins leverage blockchain technology to provide enhanced security and transparency for every transaction.
+
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. We encourage you to explore and contribute to the open-source nature of the project.
+
+---
+
+Join the Stream**Pay**™ E-Commerce Plugins community and take your online store's payment experience to the next level. Explore our plugins for Medusajs, Shopify, and WooCommerce platforms, and empower your customers with secure and versatile payment options.
