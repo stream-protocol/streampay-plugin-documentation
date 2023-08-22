@@ -1,0 +1,50 @@
+
+1. **Clone Repository**: Clone the Stream**Pay**™ Plugin repository from the Medusajs Monorepo.
+
+   ```bash
+   git clone https://github.com/stream-protocol/streampay-medusajs-monorepo.git
+   ```
+
+2. **Navigate to Plugin Directory**: Navigate to the Stream**Pay**™ Plugin directory within the monorepo.
+
+   ```bash
+   cd streampay-medusajs-monorepo/plugins/streampay
+   ```
+
+3. **Install Dependencies**: Install the required dependencies for the plugin.
+
+   ```bash
+   npm install
+   ```
+
+4. **Configure Plugin**: Open the `config.js` file and provide Stream**Pay**™ API credentials.
+
+   ```javascript
+   module.exports = {
+     apiKey: 'YOUR_STREAMPAY_API_KEY',
+     apiSecret: 'YOUR_STREAMPAY_API_SECRET',
+     // Add more configuration options here as needed
+   };
+   ```
+
+5. **Build Plugin**: Build the plugin to generate the necessary files for integration.
+
+   ```bash
+   npm run build
+   ```
+
+6. **Integrate with Medusa**: Integrate the built plugin with your Medusa e-commerce store. Follow the Stream**Pay**™ documentation to learn how to enable and configure plugins.
+
+7. **Test Transactions**: Create test transactions using different payment methods to ensure that the integration is functioning correctly.
+
+## Getting Help
+
+If you encounter any issues during the installation or integration process, consult the Stream**Pay**™ documentation or reach out to the Medusajs community for assistance.
+
+## Disclaimer
+
+The Medusajs Stream**Pay**™ Plugin is provided as-is without any warranties. Make sure to thoroughly test the integration in a controlled environment before deploying it to a production store. Additionally, keep Stream**Pay**™ API credentials and sensitive information secure to prevent unauthorized access.
+
+---
+
+By integrating the Medusajs Stream**Pay**™ Plugin, you're enabling your Medusa-based e-commerce store to offer a convenient and secure payment experience powered by Stream**Pay**™. This plugin helps enhance customer satisfaction and streamline payment processing for your online business.

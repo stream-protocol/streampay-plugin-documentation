@@ -1,0 +1,50 @@
+
+1. **Clone Repository**: Clone the Stream**Pay**™ Plugin repository from the Shopify Monorepo.
+
+   ```bash
+   git clone https://github.com/stream-protocol/streampay-shopify-monorepo.git
+   ```
+
+2. **Navigate to Plugin Directory**: Navigate to the Stream**Pay**™ Plugin directory within the monorepo.
+
+   ```bash
+   cd streampay-shopify-monorepo/plugins/streampay
+   ```
+
+3. **Install Dependencies**: Install the required dependencies for the plugin.
+
+   ```bash
+   npm install
+   ```
+
+4. **Configure Plugin**: Open the `config.js` file and provide Stream**Pay**™ API credentials.
+
+   ```javascript
+   module.exports = {
+     apiKey: 'YOUR_STREAMPAY_API_KEY',
+     apiSecret: 'YOUR_STREAMPAY_API_SECRET',
+     // Add more configuration options here as needed
+   };
+   ```
+
+5. **Build Plugin**: Build the plugin to generate the necessary files for integration.
+
+   ```bash
+   npm run build
+   ```
+
+6. **Integrate with Shopify**: Integrate the built plugin with your Shopify e-commerce store. Follow the Stream**Pay**™ documentation to learn how to enable and configure plugins.
+
+7. **Test Transactions**: Create test transactions using different payment methods to ensure that the integration is functioning correctly.
+
+## Getting Help
+
+If you encounter any issues during the installation or integration process, consult the Stream**Pay**™ Shopify documentation or reach out to the Shopify community for assistance.
+
+## Disclaimer
+
+The Shopify Stream**Pay**™ Plugin is provided as-is without any warranties. Make sure to thoroughly test the integration in a controlled environment before deploying it to a production store. Additionally, keep Stream**Pay**™ API credentials and sensitive information secure to prevent unauthorized access.
+
+---
+
+By integrating the Shopify Stream**Pay**™ Plugin, you're enabling your Shopify-based e-commerce store to offer a convenient and secure payment experience powered by Stream**Pay**™. This plugin helps enhance customer satisfaction and streamline payment processing for your online business.
