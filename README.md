@@ -15,6 +15,8 @@ The Medusajs StreamPay Plugin is a powerful extension for Medusa stores, enablin
 
 **3. Shopify**
 
+The Shopify Stream**Pay**™ Plugin is a powerful extension for Shopify stores, enabling seamless integration with the Stream**Pay**™ payment provider. With this plugin, merchants can effortlessly process blockchain-based payments through Stream**Pay**™ on their Shopify-based online stores, offering a streamlined and secure payment experience for customers.
+
 ## License
 
 This project is licensed under the MIT License.
